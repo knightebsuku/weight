@@ -1,2 +1,5 @@
-# weight
-quick plotly dash app to track weight
+# Weight
+
+
+Quick plotly dash app to track weight
+
