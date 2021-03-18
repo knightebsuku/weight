@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  web:
+    build: .
+    command: bash -c "python app.py"
+    ports:
+      - "8050:8050"
+    env_file:
+      - .env
